@@ -1,5 +1,5 @@
 {
-  "name": "Khorosenai",
+  "name": "Khaoryx",
   "initials": "",
   "avatarUrl": "./assets/kiriko.png",
   "badge": "C++ Dev (Web hater) ",
@@ -15,14 +15,14 @@
     {
       "type": "discord",
       "label": "Discord",
-      "sub": "khorosenaiaa",
+      "sub": "Khaoryx",
       "url": "https://discord.com/users/791739844451368972"
     },
     {
       "type": "github",
       "label": "GitHub",
-      "sub": "github.com/khorosenai2",
-      "url": "https://github.com/khorosenai2"
+      "sub": "github.com/Khaoryxx",
+      "url": "https://github.com/Khaoryxx"
     },
     {
       "type": "steam",
@@ -40,5 +40,5 @@
     "loop": true
   },
 
-  "footer": "khorosenai · 2026 · dev par moi :)"
+  "footer": "Khaoryx · 2027 · dev par moi :)"
 }
